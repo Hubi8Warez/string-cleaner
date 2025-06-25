@@ -1,1 +1,1 @@
-String cleaner make in C++
+Exploits/cheats bypass <3
