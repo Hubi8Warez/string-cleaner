@@ -118,5 +118,9 @@ int main() {
     }
 
     CloseHandle(hProc);
+
+    std::cout << "\n[?] Nacisnij Enter, aby zamknac...\n";
+    std::cin.get();  
+
     return 0;
 }
